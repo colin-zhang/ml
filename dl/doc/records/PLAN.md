@@ -1,20 +1,20 @@
-###books
-learning tensorflow    
+### Books
+Learning tensorflow    
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)     
 
-###course
+### Course
 
-###tools
-- jupeter
-- pycharm
+### Tools
+- Jupyter
+- Pycharm
 
-###framwroks
+### Framwroks
 - tensorflow
 - pytorch
 
-###applications
+### Applications
 - NLP
-- image recognition
+- Image recognition
 
-###TODO
+### TODO
 - A fully connected neural networks to play wich MNIST programming with C++
