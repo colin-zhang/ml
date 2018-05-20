@@ -31,7 +31,12 @@ show_channel_urls: true
 [清华](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
 
 ###### 创建环境
-`conda create -n tf  tensorflow  python=3.6`      
+`conda create -n tf tensorflow jupyter python=3.6`      
 切换到tf环境    
 `source activate tf`    
 
+
+```
+conda create -n pytorch pytorch matplotlib jupyter python=3.6
+source activate pytorch
+```
