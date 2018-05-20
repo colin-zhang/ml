@@ -11,10 +11,12 @@ Learning tensorflow
 ### Framwroks
 - tensorflow
 - pytorch
+    - [https://github.com/chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book)
 
 ### Applications
 - NLP
 - Image recognition
 
 ### TODO
-- A fully connected neural networks to play wich MNIST programming with C++
+- [ ] Reading books
+- [ ] A fully connected neural networks to play wich MNIST programming with C++
