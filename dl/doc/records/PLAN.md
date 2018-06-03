@@ -5,7 +5,12 @@
     - [nndl code](https://github.com/mnielsen/neural-networks-and-deep-learning)     
 
 ### Course
-
+- [cs231n](http://cs231n.stanford.edu/)   
+    https://cs231n.github.io/python-numpy-tutorial/         
+- [cs20si](cs20si)   
+    https://web.stanford.edu/class/cs20si/syllabus.html     
+- gluon    
+    http://zh.gluon.ai/
 ### Tools
 - Jupyter
 - Pycharm
@@ -19,6 +24,9 @@
     - [https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch(https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
     - [https://github.com/L1aoXingyu/pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)
     - [https://github.com/yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+
+- MXNet     
+    http://zh.gluon.ai/
 
 ### Applications
 - NLP
