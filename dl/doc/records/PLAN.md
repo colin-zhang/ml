@@ -5,7 +5,7 @@
     - [nndl code](https://github.com/mnielsen/neural-networks-and-deep-learning)     
 
 ### Course
-- [cs231n](http://cs231n.stanford.edu/)   
+- [cs231n](http://cs231n.stanford.edu/)    
     https://cs231n.github.io/python-numpy-tutorial/         
 - [cs20si](cs20si)   
     https://web.stanford.edu/class/cs20si/syllabus.html     
@@ -25,7 +25,7 @@
     - [https://github.com/L1aoXingyu/pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)
     - [https://github.com/yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 
-- MXNet     
+- MXNet/Gluon     
     http://zh.gluon.ai/
 
 ### Applications
