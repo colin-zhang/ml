@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
-import pickle
 import gzip
-from matplotlib import pyplot
+import pickle
+#from matplotlib import pyplot
 from PIL import Image
 
 imgs_dir = 'images'
