@@ -37,6 +37,6 @@ show_channel_urls: true
 
 
 ```
-conda create -n pytorch pytorch matplotlib jupyter python=3.6
+conda create -n pytorch pytorch torchvision matplotlib jupyter python=3.6
 source activate pytorch
 ```
