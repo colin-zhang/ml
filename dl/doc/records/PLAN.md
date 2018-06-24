@@ -21,7 +21,7 @@
     - https://github.com/keras-team/keras
 - pytorch
     - [https://github.com/chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book)
-    - [https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch(https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
+    - [https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
     - [https://github.com/L1aoXingyu/pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)
     - [https://github.com/yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 
