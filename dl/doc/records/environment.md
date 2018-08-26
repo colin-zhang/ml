@@ -40,3 +40,10 @@ show_channel_urls: true
 conda create -n pytorch pytorch torchvision matplotlib jupyter python=3.6
 source activate pytorch
 ```
+
+### jupyter
+
+With notedown
+```
+jupyter notebook --ip=0.0.0.0 --no-browser --allow-root          --NotebookApp.contents_manager_class='notedown.NotedownContentsManager'
+```
